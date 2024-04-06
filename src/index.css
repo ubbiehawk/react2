@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#typeDropdown{
+  text-align: center;
+  transform: translateX(10%);
+  color: black;
+  margin: 40px;
+}
