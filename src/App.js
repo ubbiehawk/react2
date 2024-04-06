@@ -22,7 +22,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        
+        <HelloWorld name={'Ubbie'}/>
+        <Counter/>
         <FilteredList items={produce}/>
       </div>
     );
