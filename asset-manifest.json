@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/%20//ubbiehawk.github.io/react2/static/css/main.22b61206.css",
+    "main.js": "/%20//ubbiehawk.github.io/react2/static/js/main.e3be1925.js",
+    "static/js/453.ed3810f9.chunk.js": "/%20//ubbiehawk.github.io/react2/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/%20//ubbiehawk.github.io/react2/index.html",
+    "main.22b61206.css.map": "/%20//ubbiehawk.github.io/react2/static/css/main.22b61206.css.map",
+    "main.e3be1925.js.map": "/%20//ubbiehawk.github.io/react2/static/js/main.e3be1925.js.map",
+    "453.ed3810f9.chunk.js.map": "/%20//ubbiehawk.github.io/react2/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22b61206.css",
+    "static/js/main.e3be1925.js"
+  ]
+}
